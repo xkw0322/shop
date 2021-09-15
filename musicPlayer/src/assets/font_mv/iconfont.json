@@ -1,0 +1,37 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "4275555",
+      "name": "查看MV",
+      "font_class": "chakanMV",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "4328008",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e645",
+      "unicode_decimal": 58949
+    },
+    {
+      "icon_id": "6263352",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e66e",
+      "unicode_decimal": 58990
+    },
+    {
+      "icon_id": "19594586",
+      "name": "播放",
+      "font_class": "play",
+      "unicode": "e688",
+      "unicode_decimal": 59016
+    }
+  ]
+}
