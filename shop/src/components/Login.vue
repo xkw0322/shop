@@ -44,12 +44,12 @@ export default {
   },
   methods: {
     resetBtn () {
-      console.log(this)
+      // console.log(this)
       this.$refs.loginFormRef.resetFields()
     },
     loginBtn () {
       this.$refs.loginFormRef.validate(async msg => {
-        console.log(msg)
+        // console.log(msg)
         if (msg === true) {
           const res = await this.axios({
             method: 'post',
