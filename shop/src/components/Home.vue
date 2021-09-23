@@ -115,6 +115,10 @@ export default {
     }
   }
   .el-aside {
+    position: absolute;
+    left: 0;
+    top: 60px;
+    bottom: 0;
     background-color: #333744;
     .toggle-btn {
       background-color: #4a5064;
@@ -131,8 +135,14 @@ export default {
       border-right: 0;
     }
   }
-  .el-mian {
+  .el-main {
     background-color: #eaedf1;
+    position: absolute;
+    left: 200px;
+    right: 0;
+    bottom: 0;
+    top: 60px;
+    overflow-y: scroll;
   }
 }
 </style>
